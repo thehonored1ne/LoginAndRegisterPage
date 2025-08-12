@@ -20,7 +20,7 @@ Before you can run this project, you need to have a local development environmen
 
 Follow these steps to get the application running on your local machine.
 
-1.  **Download Project Files:** Clone or download this repository.
+1.  **Download Project Files:** Download the LoginForm folder.
 2.  **Place in htdocs:** Move the project folder (`LoginForm`) into your XAMPP installation's `htdocs` directory. The path will typically be `C:\xampp\htdocs\LoginForm`.
 3.  **Start Services:** Launch the XAMPP Control Panel and start the **Apache** and **MySQL** services.
 4.  **Access the Application:** Open your preferred web browser and navigate to the following URL:

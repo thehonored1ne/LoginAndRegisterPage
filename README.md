@@ -6,4 +6,4 @@ Step 2: At local C: open the folder xampp > htdocs > and paste the folder you do
 Step 3: Open xampp.
 Step 4: Start apache and mysql.
 Step 5: Go to your browser and type localhost/LoginForm and press enter.
-Step 6: Done
+Step 6: Done.
